@@ -1,1 +1,4 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/jp/v3/jp/none/8dxzt3tck4dwnwtbr1bka98tw_image-header_pRow_1747916130000/fill/none/top/none/85/600/336/webp/image" group-title="Dazn | Fifa WorldCup",FC Salzburg vs. Al Hilal
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dcb-fl-live.dtcdn.dazn.com/ji2gxj2yykqj16z44ddbs8po3/tv/stream.mpd?channel=2650&outlet=dazn-row&plang=en
