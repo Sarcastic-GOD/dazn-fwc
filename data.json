@@ -1,1 +1,17 @@
-
+[
+    {
+        "Id": "8dxzt3tck4dwnwtbr1bka98tw",
+        "islive": true,
+        "sports": "Football",
+        "name": "FC Salzburg vs. Al Hilal",
+        "description": "Watch the latest action from the FIFA Club World Cup, with the group stage match between FC Salzburg and Al Hilal.",
+        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/8dxzt3tck4dwnwtbr1bka98tw_image-header_pRow_1747916130000/fill/none/top/none/85/600/336/webp/image",
+        "tournament": "FIFA Club World Cup™",
+        "start": "2025-06-23 03:30 AM",
+        "end": "2025-06-23 07:00 AM",
+        "source": {
+            "m3u8": "https://dcb-fl-live.dtcdn.dazn.com/ji2gxj2yykqj16z44ddbs8po3/tv/stream.m3u8?channel=2650&outlet=dazn-row&plang=en",
+            "mpd": "https://dcb-fl-live.dtcdn.dazn.com/ji2gxj2yykqj16z44ddbs8po3/tv/stream.mpd?channel=2650&outlet=dazn-row&plang=en"
+        }
+    }
+]
