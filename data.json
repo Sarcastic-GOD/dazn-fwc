@@ -13,20 +13,5 @@
             "m3u8": "https://dcb-fl-live.dtcdn.dazn.com/1qkrddsy9lg8x1f2spr98yrxo0/tv/stream.m3u8?channel=2650&outlet=dazn-row&plang=en",
             "mpd": "https://dcb-fl-live.dtcdn.dazn.com/1qkrddsy9lg8x1f2spr98yrxo0/tv/stream.mpd?channel=2650&outlet=dazn-row&plang=en"
         }
-    },
-    {
-        "Id": "dl40oggorfri8ks43v7sqavwy",
-        "islive": true,
-        "sports": "Football",
-        "name": "Manchester City vs. Al Ain FC",
-        "description": "Watch the latest action from the FIFA Club World Cup, with the group stage match between Manchester City and Al Ain FC.",
-        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/dl40oggorfri8ks43v7sqavwy_image-header_pRow_1747916130000/fill/none/top/none/85/600/336/webp/image",
-        "tournament": "FIFA Club World Cup™",
-        "start": "2025-06-23 06:30 AM",
-        "end": "2025-06-23 10:00 AM",
-        "source": {
-            "m3u8": "https://dcb-fl-live.dtcdn.dazn.com/466js0vm8hm41oguv6s17n48e/tv/stream.m3u8?channel=2651&outlet=dazn-row&plang=en",
-            "mpd": "https://dcb-fl-live.dtcdn.dazn.com/466js0vm8hm41oguv6s17n48e/tv/stream.mpd?channel=2651&outlet=dazn-row&plang=en"
-        }
     }
 ]
