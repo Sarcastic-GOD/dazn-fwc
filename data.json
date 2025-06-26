@@ -13,20 +13,5 @@
             "m3u8": "https://dcb-fl-live.dtcdn.dazn.com/1dw9831iwimx81mm5594h1uytc/tv/stream.m3u8?channel=1809&outlet=dazn-row&plang=en",
             "mpd": "https://dcb-fl-live.dtcdn.dazn.com/1dw9831iwimx81mm5594h1uytc/tv/stream.mpd?channel=1809&outlet=dazn-row&plang=en"
         }
-    },
-    {
-        "Id": "7wwp2zuyxqud7augjno5s1m1h",
-        "islive": true,
-        "sports": "Football",
-        "name": "Inter vs. River Plate",
-        "description": "Watch the latest action from the FIFA Club World Cup, with the group stage match between Inter and River Plate.",
-        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/7wwp2zuyxqud7augjno5s1m1h_image-header_pRow_1747916128000/fill/none/top/none/85/600/336/webp/image",
-        "tournament": "FIFA Club World Cup™",
-        "start": "2025-06-26 06:30 AM",
-        "end": "2025-06-26 10:00 AM",
-        "source": {
-            "m3u8": "https://dcb-fl-live.dtcdn.dazn.com/125dalqffr8fx14eoubn01m4vj/tv/stream.m3u8?channel=2650&outlet=dazn-row&plang=en",
-            "mpd": "https://dcb-fl-live.dtcdn.dazn.com/125dalqffr8fx14eoubn01m4vj/tv/stream.mpd?channel=2650&outlet=dazn-row&plang=en"
-        }
     }
 ]
