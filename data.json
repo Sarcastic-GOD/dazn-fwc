@@ -12,6 +12,7 @@
         "source": {
             "m3u8": "https://ohbexo@dcb-fl-live.dtcdn.dazn.com/7sbouzallmrq189a9d8qx2kcf/tv/stream.m3u8?channel=1658&outlet=dazn-row&plang=en",
             "mpd": "https://ohbexo@dcb-fl-live.dtcdn.dazn.com/7sbouzallmrq189a9d8qx2kcf/tv/stream.mpd?channel=1658&outlet=dazn-row&plang=en"
-        }
+        },
+        "arabic": []
     }
 ]
