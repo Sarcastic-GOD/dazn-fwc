@@ -15,18 +15,6 @@
         }
     },
     {
-        "id": "c1090472254",
-        "islive": true,
-        "sports": "Basketball",
-        "name": "United States U19 vs. Australia U19",
-        "description": "Watch Basketball action as United States U19 takes on Australia U19.",
-        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/9rk712xehao72ri89yf6rkply_image-header_pRow_1752963473000/fill/none/top/none/85/600/336/webp/image",
-        "tournament": "FIBA U19 World Cup (W)",
-        "start": "2025-07-20 11:30 PM",
-        "end": "2025-07-21 02:30 AM",
-        "source": []
-    },
-    {
         "id": "c1090473468",
         "islive": true,
         "sports": "Chess",
