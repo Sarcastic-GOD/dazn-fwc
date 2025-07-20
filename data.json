@@ -60,21 +60,6 @@
         }
     },
     {
-        "id": "c1090457742",
-        "islive": true,
-        "sports": "Football",
-        "name": "Union Saint-Gilloise vs. Club Brugge",
-        "description": "Watch Union Saint-Gilloise take on Club Brugge in the Belgian Super Cup.",
-        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/3bjp06u6gym31fomj977fddf8_image-header_pRow_1752239087000/fill/none/top/none/85/600/336/webp/image",
-        "tournament": "Super Cup",
-        "start": "2025-07-20 10:00 PM",
-        "end": "2025-07-21 01:00 AM",
-        "source": {
-            "m3u8": "https://ohbexo@dca-co-live-gcr.gcdn.co/cax6tl4by2361fo6gbwf9lmpj/tv/stream.m3u8?channel=3923&outlet=dazn-row&plang=en",
-            "mpd": "https://ohbexo@dca-co-live-gcr.gcdn.co/cax6tl4by2361fo6gbwf9lmpj/tv/stream.mpd?channel=3923&outlet=dazn-row&plang=en"
-        }
-    },
-    {
         "id": "c1090418420",
         "islive": true,
         "sports": "Triathlon",
