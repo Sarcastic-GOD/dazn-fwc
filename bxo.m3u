@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/jp/v3/jp/none/cjlce8e2ngtv0of4ql7st1qei_image-header_pRow_1751984804000/fill/none/top/none/85/600/336/webp/image" group-title="Dazn | Fifa club WorldCup",BIG3: Detroit
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://ohbexo@dca-co-live-gcr.gcdn.co/1vjn0aytq6lyj13bmdva9lsat2/tv/stream.mpd?channel=5078&outlet=dazn-row&plang=en
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/jp/v3/jp/none/9rk712xehao72ri89yf6rkply_image-header_pRow_1752963473000/fill/none/top/none/85/600/336/webp/image" group-title="Dazn | Fifa club WorldCup",United States U19 vs. Australia U19
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/jp/v3/jp/none/6vbramqx7glaxd71r5xtemmp0_image-header_pRow_1752235079000/fill/none/top/none/85/600/336/webp/image" group-title="Dazn | Fifa club WorldCup",Las Vegas : Day 5 (Pro Stream)
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://ohbexo@dca-co-live-gcr.gcdn.co/1tutrowyqsxrq1fz7unba0r47q/tv/stream.mpd?channel=7005&outlet=dazn-row&plang=en
